@@ -19,7 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-
+  Math.sqrt(num)
 end
 
 #- `addition` - Build the method `addition` that adds `num2` to `num1` and returns the result of this calculation
